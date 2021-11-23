@@ -32,7 +32,7 @@ aqui voy a poner la imagen
   <li>Junit-Tools</li>
   <li>TestNG for Eclipse</li>
   <li>Prettier</li>
-  
+  </br>
 [![Plugins-eclipse.png](https://i.postimg.cc/vHJ6xqNL/Plugins-eclipse.png)](https://postimg.cc/rK9pvJcK)
 [![Plugins-eclipse-2.png](https://i.postimg.cc/bYKQ1wGt/Plugins-eclipse-2.png)](https://postimg.cc/3WF4T7F8)
 [![Plugins-eclipse-2.png](https://i.postimg.cc/bYKQ1wGt/Plugins-eclipse-2.png)](https://postimg.cc/3WF4T7F8)
