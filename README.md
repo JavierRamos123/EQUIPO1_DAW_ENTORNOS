@@ -1,13 +1,4 @@
-# EQUIPO1_DAW_ENTORNOS
-<!DOCTYPE HTML>
-<html lang="es-ES">
-
-<head>
- <title>EQUIPO1_DAW_ENTORNOS</title> 
-</head>
- 
- <body>
- 
+# EQUIPO1_DAW_ENTORNOS 
 <h1>SPRINT 2 - ENTORNOS</h1>
 <h2>STORY 1: Vídeo Presentación: Control de versiones</h2>
 <p></p>
@@ -43,5 +34,4 @@ aqui voy a poner la imagen
 <p></p>
 <h2>STORY 9: Configuración de GIT en Entornos de desarrollo</h2>
 <p></p>
-</body>
-</html>
+
