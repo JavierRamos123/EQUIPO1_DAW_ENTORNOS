@@ -14,8 +14,7 @@
 <h2>STORY 5: Instalación de Java JDK</h2>
 
 <p>Alberto Fernandez Baena</p>
-aqui voy aponer una imagen
- ![Alberto](Imagenes/githup/Plugins eclipse 2.png)
+[![fotojdk.png](https://i.postimg.cc/t48DTNhL/fotojdk.png)](https://postimg.cc/fVjYqXqK)
 
 
 <h2>STORY 6: Instalación de Entornos de Desarrollo</h2>
