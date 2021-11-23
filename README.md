@@ -22,7 +22,9 @@
 <h2>STORY 6: Instalación de Entornos de Desarrollo</h2>
 
 <h3>Alberto Fernandez Baena</h3>
-<p>El entorno de desarrollo que tengo instalado es eclipse y es la versión</p>
+<p>El entorno de desarrollo que tengo instalado es eclipse y es la versión:2021-09 (4.21.0)</p>
+
+[![versioneclipse.png](https://i.postimg.cc/Wp65pZY4/versioneclipse.png)](https://postimg.cc/14XGJ8Qx)
 
 [![eclipse.png](https://i.postimg.cc/vHwwk5gH/eclipse.png)](https://postimg.cc/NLDnr9kW)
 
