@@ -14,7 +14,7 @@
 <h2>STORY 5: Instalación de Java JDK</h2>
 
 <h3>Alberto Fernandez Baena</h3>
-<p>La version del JDK que tengo instalado es la jdk-17.0.1</p>
+<p>La version del JDK que tengo instalado es la jdk-17.0.1 en la ruta C:\Program Files\Java\jdk-17.0.1</p>
 
 [![fotojdk.png](https://i.postimg.cc/t48DTNhL/fotojdk.png)](https://postimg.cc/fVjYqXqK)
 
