@@ -14,6 +14,7 @@
 <h2>STORY 5: Instalación de Java JDK</h2>
 
 <p>Alberto Fernandez Baena</p>
+
 [![fotojdk.png](https://i.postimg.cc/t48DTNhL/fotojdk.png)](https://postimg.cc/fVjYqXqK)
 
 
