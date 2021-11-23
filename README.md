@@ -15,7 +15,7 @@
 
 <p>Alberto Fernandez Baena</p>
 aqui voy aponer una imagen
- ![Alberto](Imagenes/githup/Plugins eclipse 2.png)
+ ![Alberto](imagenes/EGDP6YIVUAAhDhp.jpg)
 
 
 <h2>STORY 6: Instalación de Entornos de Desarrollo</h2>
