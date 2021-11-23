@@ -14,16 +14,17 @@
 <h2>STORY 5: Instalación de Java JDK</h2>
 
 <h3>Alberto Fernandez Baena</h3>
-<p>La version del JDK que tengo instalado es la jdk17.0.1</p>
+<p>La version del JDK que tengo instalado es la jdk-17.0.1</p>
 
 [![fotojdk.png](https://i.postimg.cc/t48DTNhL/fotojdk.png)](https://postimg.cc/fVjYqXqK)
 
 
 <h2>STORY 6: Instalación de Entornos de Desarrollo</h2>
 
-<p>Alberto Fernandez Baena</p>
+<h3>Alberto Fernandez Baena</h3>
+<p>El entorno de desarrollo que tengo instalado es eclipse y es la versión</p>
 
-
+[![eclipse.png](https://i.postimg.cc/vHwwk5gH/eclipse.png)](https://postimg.cc/NLDnr9kW)
 
 <h2>STORY 7: Configuración de Entorno de Desarrollo</h2>
 
