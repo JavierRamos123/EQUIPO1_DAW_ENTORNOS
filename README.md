@@ -15,7 +15,7 @@
 
 <p>Alberto Fernandez Baena</p>
 aqui voy aponer una imagen
- ![Alberto](imagenes/EGDP6YIVUAAhDhp.jpg)
+[![EGDP6-YIVUAAh-Dhp.jpg](https://i.postimg.cc/QxdBSz0P/EGDP6-YIVUAAh-Dhp.jpg)](https://postimg.cc/LhG68xdB)
 
 
 <h2>STORY 6: Instalación de Entornos de Desarrollo</h2>
