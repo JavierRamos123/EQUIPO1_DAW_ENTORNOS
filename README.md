@@ -26,8 +26,11 @@ aqui voy a poner la imagen
 
 <h2>STORY 7: Configuración de Entorno de Desarrollo</h2>
 
-<p>Alberto Fernandez Baena</p>
-aqui voy a poner la imagen 
+<h3>Alberto Fernandez Baena</h3>
+
+[![Plugins-eclipse.png](https://i.postimg.cc/vHJ6xqNL/Plugins-eclipse.png)](https://postimg.cc/rK9pvJcK)
+[![Plugins-eclipse-2.png](https://i.postimg.cc/bYKQ1wGt/Plugins-eclipse-2.png)](https://postimg.cc/3WF4T7F8)
+[![Plugins-eclipse-2.png](https://i.postimg.cc/bYKQ1wGt/Plugins-eclipse-2.png)](https://postimg.cc/3WF4T7F8)
 
 
 <h2>STORY 8: Creación y ejecución de un Proyecto JAVA</h2>
