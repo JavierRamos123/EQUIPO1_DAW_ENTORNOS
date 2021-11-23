@@ -26,7 +26,7 @@
 
 [![versioneclipse.png](https://i.postimg.cc/Wp65pZY4/versioneclipse.png)](https://postimg.cc/14XGJ8Qx)
 
-[![eclipse.png](https://i.postimg.cc/vHwwk5gH/eclipse.png)](https://postimg.cc/NLDnr9kW)
+
 
 <h2>STORY 7: Configuración de Entorno de Desarrollo</h2>
 
