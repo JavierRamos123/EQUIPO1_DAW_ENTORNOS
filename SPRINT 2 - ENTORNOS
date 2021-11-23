@@ -6,15 +6,19 @@
 </head>
  
  <body>
+ 
 <h1>SPRINT 2 - ENTORNOS</h1>
 <h2>STORY 1: Vídeo Presentación: Control de versiones</h2>
 <p></p>
 <h2>STORY 2:Repositorios Git</h2>
-<p></p>
-<h2>STORY 3: Vídeo Presentación: Herramientas CASE</h2>
-<p></p>
-<h2>STORY 4: Video Presentación Entornos de Desarrollo</h2>
-<p></p>
+<p>--Aquí va el enlace al vídeo de presentación de control de versiones creado en la story anterior.--</p>
+
+<h2>Herramientas CASE</h2>
+<p>--Aquí va el enlace al vídeo de presentación de herramientas case creado en el paso1--</p>
+
+<h2> Entornos de Desarrollo</h2>
+<p>--Aquí va el enlace al vídeo de presentación de entornos de desarrollo creado en el paso1--</p>
+
 <h2>STORY 5: Instalación de Java JDK</h2>
 
 <p>Alberto Fernandez Baena</p>
