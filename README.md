@@ -27,7 +27,12 @@ aqui voy a poner la imagen
 <h2>STORY 7: Configuración de Entorno de Desarrollo</h2>
 
 <h3>Alberto Fernandez Baena</h3>
-
+<p>En estas imágenes muestro los plugins instalados, los cuáles son</p>
+  <li>SonarLint</li>
+  <li>Junit-Tools</li>
+  <li>TestNG for Eclipse</li>
+  <li>Prettier</li>
+  
 [![Plugins-eclipse.png](https://i.postimg.cc/vHJ6xqNL/Plugins-eclipse.png)](https://postimg.cc/rK9pvJcK)
 [![Plugins-eclipse-2.png](https://i.postimg.cc/bYKQ1wGt/Plugins-eclipse-2.png)](https://postimg.cc/3WF4T7F8)
 [![Plugins-eclipse-2.png](https://i.postimg.cc/bYKQ1wGt/Plugins-eclipse-2.png)](https://postimg.cc/3WF4T7F8)
