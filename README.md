@@ -28,6 +28,14 @@
 [![java-home.png](https://i.postimg.cc/13YbBQPq/java-home.png)](https://postimg.cc/bZk6Y4Zy)
 [![java-home2.png](https://i.postimg.cc/9Fgx5YS3/java-home2.png)](https://postimg.cc/tYPdFWpD)
 
+
+<h3>Alvaro Delgado Hernandez</h3>
+
+<p>La version del JDK que tengo instalado es la jdk-17.0.1 en la ruta C:\Program Files\Java\jdk-17.0.1</p>
+
+[![javahome2.jpg](https://i.postimg.cc/YSsC8hyn/javahome2.jpg)](https://postimg.cc/KKtb8vbB)
+[![javahome2.jpg](https://i.postimg.cc/YSsC8hyn/javahome2.jpg)](https://postimg.cc/KKtb8vbB)
+
 <h3>Eva Téllez Bernal</h3>
 <p>Mi versión de Java JDK es la jdk- en la ruta </p>
 
@@ -45,6 +53,11 @@ FOTO
 <p>El entorno de desarrollo que tengo instalado es eclipse y es la versión:2021-09 (4.21.0)</p>
 
 [![versioneclipse.png](https://i.postimg.cc/Wp65pZY4/versioneclipse.png)](https://postimg.cc/14XGJ8Qx)
+
+<h3>Alvaro Delgado Hernandez</h3>
+<p>El entorno de desarrollo que tengo instalado es eclipse y es la versión:2021-09 (4.21.0)</p>
+
+[![VERSION-ECLIPSE.jpg](https://i.postimg.cc/VktrJ9Gf/VERSION-ECLIPSE.jpg)](https://postimg.cc/3kKJ6GQV)
 
 <h3>Leonardo Sacor Nefedova</h3>
 <p>El entorno de desarrollo que tengo instalado es eclipse y es la versión:2021-09 (4.21.0)</p>
@@ -70,14 +83,13 @@ FOTO
 [![Plugins-eclipse-2.png](https://i.postimg.cc/bYKQ1wGt/Plugins-eclipse-2.png)](https://postimg.cc/3WF4T7F8)
 
   <h3>Alvaro Delgado Hernandez</h3>
-<p>En estas imágenes muestro los plugins instalados, los cuáles son</p>
-
- [![pluggins.jpg](https://i.postimg.cc/vHJwZ5xt/pluggins.jpg)](https://postimg.cc/0b0BtMfz) 
+<p>En estas imágenes muestro los plugins  que me he instalados, los cuáles son</p>
   <li>SonarLint</li>
   <li>Junit-Tools</li>
   <li>TestNG for Eclipse</li>
   <li>Prettier</li>
-  </br>
+  </br> 
+   [![pluggins.jpg](https://i.postimg.cc/vHJwZ5xt/pluggins.jpg)](https://postimg.cc/0b0BtMfz) 
   
 <h3>Leonardo Sacor Nefedova</h3>
 
