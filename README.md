@@ -18,6 +18,10 @@
 
 [![fotojdk.png](https://i.postimg.cc/t48DTNhL/fotojdk.png)](https://postimg.cc/fVjYqXqK)
 
+<p>Las variables de entorno JAVA las tengo configuradas dentro de Path, y le tengo puesto de nombre JAVA_HOME</p>
+
+[![java-home.png](https://i.postimg.cc/13YbBQPq/java-home.png)](https://postimg.cc/bZk6Y4Zy)
+[![java-home2.png](https://i.postimg.cc/9Fgx5YS3/java-home2.png)](https://postimg.cc/tYPdFWpD)
 
 <h2>STORY 6: Instalación de Entornos de Desarrollo</h2>
 
