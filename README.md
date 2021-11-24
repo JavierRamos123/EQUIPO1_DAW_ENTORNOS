@@ -4,7 +4,7 @@
 
 <h2>STORY 2:Repositorios Git</h2>
 
-[![Alt text](https://drive.google.com/file/d/1etS6s0fv5SgLGTpaAh8vBTEQ2iQZXH7l/view)]
+https://drive.google.com/file/d/1etS6s0fv5SgLGTpaAh8vBTEQ2iQZXH7l/view
 
 <h2>Herramientas CASE</h2>
 <p>--Aquí va el enlace al vídeo de presentación de herramientas case creado en el paso1--</p>
