@@ -47,9 +47,9 @@
 [![javahome2.jpg](https://i.postimg.cc/YSsC8hyn/javahome2.jpg)](https://postimg.cc/KKtb8vbB)
 
 <h3>Eva Téllez Bernal</h3>
-<p>Mi versión de Java JDK es la jdk- en la ruta </p>
+<p>Mi versión de Java JDK es la jdk-17.0.1 en la ruta C:\Program Files\Java\jdk-17.0.1</p>
 
-FOTO
+[![Microsoft-Teams-image.jpg](https://i.postimg.cc/KY6R3df3/Microsoft-Teams-image.jpg)](https://postimg.cc/VSFY3Z3z)
 
 <p>En las variables del sistema he creado java_home en C:\Program Files\Java\jdk-17.0.1 con una nueva variable creada en path llamada %JAVA_HOME%\bin</p>
 
