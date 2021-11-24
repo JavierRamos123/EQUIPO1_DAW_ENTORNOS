@@ -35,6 +35,10 @@
 <h2>STORY 7: Configuración de Entorno de Desarrollo</h2>
 
 <h3>Alberto Fernandez Baena</h3>
+<p>En mi entorno de desarrollo tengo configurado:</p>
+
+[![fotoconfiguracion.png](https://i.postimg.cc/YCYmfQ5K/fotoconfiguracion.png)](https://postimg.cc/9DXMcwXJ)
+
 <p>En estas imágenes muestro los plugins instalados, los cuáles son</p>
   <li>SonarLint</li>
   <li>Junit-Tools</li>
