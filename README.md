@@ -69,6 +69,16 @@ FOTO
 [![Plugins-eclipse.png](https://i.postimg.cc/vHJ6xqNL/Plugins-eclipse.png)](https://postimg.cc/rK9pvJcK)
 [![Plugins-eclipse-2.png](https://i.postimg.cc/bYKQ1wGt/Plugins-eclipse-2.png)](https://postimg.cc/3WF4T7F8)
 
+  <h3>Alvaro Delgado Hernandez</h3>
+<p>En estas imágenes muestro los plugins instalados, los cuáles son</p>
+
+ [![pluggins.jpg](https://i.postimg.cc/vHJwZ5xt/pluggins.jpg)](https://postimg.cc/0b0BtMfz) 
+  <li>SonarLint</li>
+  <li>Junit-Tools</li>
+  <li>TestNG for Eclipse</li>
+  <li>Prettier</li>
+  </br>
+  
 <h3>Leonardo Sacor Nefedova</h3>
 
 <p> He descargado los siguientes plugins para java eclipse</p>
