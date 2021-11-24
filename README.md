@@ -81,6 +81,15 @@ li>SonarLint</li>
 [![Captura-de-pantalla-3.png](https://i.postimg.cc/KYPmSB5w/Captura-de-pantalla-3.png)](https://postimg.cc/4KxDpKqQ)
 
 
+<h3>Eva Téllez Bernal</h3>
+<p>Estos son las extensiones del entorno de desarrollo instaladas:</p>
+  <li>SonarLint</li>
+  <li>Junit-Tools</li>
+  <li>TestNG for Eclipse</li>
+  <li>Prettier</li>
+  
+  [![Instalacion-plugins.jpg](https://i.postimg.cc/Hn8ZY9c3/Instalacion-plugins.jpg)](https://postimg.cc/Wqj6Sr7J)
+
 <h2>STORY 8: Creación y ejecución de un Proyecto JAVA</h2>
 <p></p>
 <h2>STORY 9: Configuración de GIT en Entornos de desarrollo</h2>
