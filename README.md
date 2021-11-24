@@ -30,15 +30,16 @@
 
 [![versioneclipse.png](https://i.postimg.cc/Wp65pZY4/versioneclipse.png)](https://postimg.cc/14XGJ8Qx)
 
+<h3>Leonardo Sacor Nefedova</h3>
+<p>El entorno de desarrollo que tengo instalado es eclipse y es la versión:2021-09 (4.21.0)</p>
+
+[![Captura-de-pantalla-1.png](https://i.postimg.cc/YCBKxj6S/Captura-de-pantalla-1.png)](https://postimg.cc/hfs5DD3F)
+
 
 
 <h2>STORY 7: Configuración de Entorno de Desarrollo</h2>
 
 <h3>Alberto Fernandez Baena</h3>
-<p>En mi entorno de desarrollo tengo configurado:</p>
-
-[![fotoconfiguracion.png](https://i.postimg.cc/YCYmfQ5K/fotoconfiguracion.png)](https://postimg.cc/9DXMcwXJ)
-
 <p>En estas imágenes muestro los plugins instalados, los cuáles son</p>
   <li>SonarLint</li>
   <li>Junit-Tools</li>
@@ -49,9 +50,20 @@
 [![Plugins-eclipse.png](https://i.postimg.cc/vHJ6xqNL/Plugins-eclipse.png)](https://postimg.cc/rK9pvJcK)
 [![Plugins-eclipse-2.png](https://i.postimg.cc/bYKQ1wGt/Plugins-eclipse-2.png)](https://postimg.cc/3WF4T7F8)
 
+<h3>Leonardo Sacor Nefedova</h3>
+
+<p> He descargado los siguientes plugins para java eclipse</p>
+
+li>SonarLint</li>
+<li> Junit-Tools</li>
+<li> TestNG for Eclipse</li>
+<li> Prettier</li>
+
+[![Captura-de-pantalla-1.png](https://i.postimg.cc/YCBKxj6S/Captura-de-pantalla-1.png)](https://postimg.cc/hfs5DD3F)
 
 
 <h2>STORY 8: Creación y ejecución de un Proyecto JAVA</h2>
 <p></p>
-
+<h2>STORY 9: Configuración de GIT en Entornos de desarrollo</h2>
+<p></p>
 
