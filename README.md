@@ -31,15 +31,13 @@
 
 <h3>Alvaro Delgado Hernandez</h3>
 
-[![Captura-JDK.jpg](https://i.postimg.cc/MGDyGbHc/Captura-JDK.jpg)](https://postimg.cc/p9m9GjDx)
-
 <p>La version del JDK que tengo instalado es la jdk-17.0.1 en la ruta C:\Program Files\Java\jdk-17.0.1</p>
 
 [![Captura-JDK.jpg](https://i.postimg.cc/MGDyGbHc/Captura-JDK.jpg)](https://postimg.cc/p9m9GjDx)
 
 <p>Las variables de entorno java las tengo configuradas dentro de Path, y le puse el nombre JAVA_HOME</p>
 
-[![javahome2.jpg](https://i.postimg.cc/YSsC8hyn/javahome2.jpg)](https://postimg.cc/KKtb8vbB)
+[![capturajavahome.jpg](https://i.postimg.cc/mgdL2PRL/capturajavahome.jpg)](https://postimg.cc/18qhv5f2)
 [![javahome2.jpg](https://i.postimg.cc/YSsC8hyn/javahome2.jpg)](https://postimg.cc/KKtb8vbB)
 
 <h3>Eva Téllez Bernal</h3>
