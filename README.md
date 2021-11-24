@@ -53,6 +53,5 @@
 
 <h2>STORY 8: Creación y ejecución de un Proyecto JAVA</h2>
 <p></p>
-<h2>STORY 9: Configuración de GIT en Entornos de desarrollo</h2>
-<p></p>
+
 
