@@ -1,9 +1,10 @@
 # EQUIPO1_DAW_ENTORNOS 
 <h1>SPRINT 2 - ENTORNOS</h1>
 <h2>STORY 1: Vídeo Presentación: Control de versiones</h2>
-<p></p>
+
 <h2>STORY 2:Repositorios Git</h2>
-<p>--Aquí va el enlace al vídeo de presentación de control de versiones creado en la story anterior.--</p>
+
+[![Alt text](https://img.youtube.com/vi/configuroweb/0.jpg)](https://drive.google.com/file/d/1etS6s0fv5SgLGTpaAh8vBTEQ2iQZXH7l/view)
 
 <h2>Herramientas CASE</h2>
 <p>--Aquí va el enlace al vídeo de presentación de herramientas case creado en el paso1--</p>
