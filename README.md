@@ -16,7 +16,13 @@
 <h3>Leonardo Sacor Nefedova</h3>
 <p>La version del JDK que tengo instalado es la jdk-17.0.1 en la ruta C:\Program Files\Java\jdk-17.0.1</p>
 
+[![Captura-de-pantalla-3.png](https://i.postimg.cc/QCyRv108/Captura-de-pantalla-3.png)](https://postimg.cc/Fk0WLfM8)
+
 <p>Las variables de entorno JAVA las tengo configuradas dentro de Path, y le tengo puesto de nombre JAVA_HOME</p>
+
+[![Captura-de-pantalla-4.png](https://i.postimg.cc/KzcwzJWc/Captura-de-pantalla-4.png)](https://postimg.cc/wtP04cHn)
+
+[![Captura-de-pantalla-6.png](https://i.postimg.cc/L6qdLQ8n/Captura-de-pantalla-6.png)](https://postimg.cc/ppt1tZ8H)
 
 <h3>Alberto Fernandez Baena</h3>
 <p>La version del JDK que tengo instalado es la jdk-17.0.1 en la ruta C:\Program Files\Java\jdk-17.0.1</p>
@@ -100,7 +106,7 @@ FOTO
 
 <p> He descargado los siguientes plugins para java eclipse</p>
 
-<li>SonarLint</li>
+<li >SonarLint </li>
 <li> Junit-Tools</li>
 <li> TestNG for Eclipse</li>
 <li> Prettier</li>
