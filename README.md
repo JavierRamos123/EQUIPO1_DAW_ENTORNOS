@@ -89,8 +89,9 @@ FOTO
   <li>TestNG for Eclipse</li>
   <li>Prettier</li>
   </br> 
-   [![pluggins.jpg](https://i.postimg.cc/vHJwZ5xt/pluggins.jpg)](https://postimg.cc/0b0BtMfz) 
-  
+ 
+ [![pluggins.jpg](https://i.postimg.cc/vHJwZ5xt/pluggins.jpg)](https://postimg.cc/0b0BtMfz)
+
 <h3>Leonardo Sacor Nefedova</h3>
 
 <p> He descargado los siguientes plugins para java eclipse</p>
