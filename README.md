@@ -100,7 +100,7 @@ FOTO
 
 <p> He descargado los siguientes plugins para java eclipse</p>
 
-li>SonarLint</li>
+<li>SonarLint</li>
 <li> Junit-Tools</li>
 <li> TestNG for Eclipse</li>
 <li> Prettier</li>
