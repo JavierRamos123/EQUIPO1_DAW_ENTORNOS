@@ -57,6 +57,17 @@
 
 [![variables.png](https://i.postimg.cc/Nf6RHZ4w/variables.png)](https://postimg.cc/sv2BF6qn)
 
+<h3>Javier Ramos del Río</h3>
+<p>Mi versión de Java JDK es la jdk-17.0.1 en la ruta C:\Program Files\Java\jdk-17.0.1</p>
+
+ [![Captura-de-pantalla-30.png](https://i.postimg.cc/FF8dMk3V/Captura-de-pantalla-30.png)](https://postimg.cc/Jt3zJnTs)
+  
+<p>En las variables del sistema he creado java_home en C:\Program Files\Java\jdk-17.0.1 con una nueva variable creada en path llamada %JAVA_HOME%\bin</p>
+  
+[![Captura-de-pantalla-34.png](https://i.postimg.cc/RZD0jN3z/Captura-de-pantalla-34.png)](https://postimg.cc/qN20KBXm)
+
+[![Captura-de-pantalla-35.png](https://i.postimg.cc/Y0M21FPQ/Captura-de-pantalla-35.png)](https://postimg.cc/ftqhsVDb)
+ 
 <h2>STORY 6: Instalación de Entornos de Desarrollo</h2>
 
 <h3>Alberto Fernandez Baena</h3>
@@ -79,6 +90,11 @@
 
 [![version-eclipse.png](https://i.postimg.cc/7Pdy2WLX/version-eclipse.png)](https://postimg.cc/K4PVXQBg)
 
+<h3>Javier Ramos del Río</h3>
+<p>El entorno de desarrollo que tengo instalado es eclipse y es la versión:2021-09 (4.21.0)</p>
+
+[![Captura-de-pantalla-32.png](https://i.postimg.cc/4d825kLw/Captura-de-pantalla-32.png)](https://postimg.cc/WFk7NKPJ)
+
 <h2>STORY 7: Configuración de Entorno de Desarrollo</h2>
 
 <h3>Alberto Fernandez Baena</h3>
@@ -92,7 +108,7 @@
 [![Plugins-eclipse.png](https://i.postimg.cc/vHJ6xqNL/Plugins-eclipse.png)](https://postimg.cc/rK9pvJcK)
 [![Plugins-eclipse-2.png](https://i.postimg.cc/bYKQ1wGt/Plugins-eclipse-2.png)](https://postimg.cc/3WF4T7F8)
 
-  <h3>Alvaro Delgado Hernandez</h3>
+<h3>Alvaro Delgado Hernandez</h3>
 <p>En estas imágenes muestro los plugins  que me he instalados, los cuáles son</p>
   <li>SonarLint</li>
   <li>Junit-Tools</li>
@@ -123,8 +139,16 @@
   
   [![Instalacion-plugins.jpg](https://i.postimg.cc/Hn8ZY9c3/Instalacion-plugins.jpg)](https://postimg.cc/Wqj6Sr7J)
 
-<h2>STORY 8: Creación y ejecución de un Proyecto JAVA</h2>
-<p></p>
-<h2>STORY 9: Configuración de GIT en Entornos de desarrollo</h2>
-<p></p>
+<h3>Javier Ramos del Río</h3>
+<p>A continuación muestro las extensiones instaladas en mi entorno de desarrollo.</p>
+  <li>SonarLint</li>
+  <li>Junit-Tools</li>
+  <li>TestNG for Eclipse</li>
+  <li>Prettier</li>
+  </br> 
 
+[![Captura-de-pantalla-32.png](https://i.postimg.cc/4d825kLw/Captura-de-pantalla-32.png)](https://postimg.cc/WFk7NKPJ)
+
+<h2>STORY 8: Creación y ejecución de un Proyecto JAVA</h2>
+
+[![Captura-de-pantalla-36.png](https://i.postimg.cc/wBNs2hwr/Captura-de-pantalla-36.png)](https://postimg.cc/p92TXnbQ)
