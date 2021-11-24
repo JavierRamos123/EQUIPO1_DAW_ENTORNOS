@@ -13,6 +13,14 @@
 
 <h2>STORY 5: Instalación de Java JDK</h2>
 
+<h3>Leonardo Sacor Nefedova</h3>
+<p>La version del JDK que tengo instalado es la jdk-17.0.1 en la ruta C:\Program Files\Java\jdk-17.0.1</p>
+
+
+
+<p>Las variables de entorno JAVA las tengo configuradas dentro de Path, y le tengo puesto de nombre JAVA_HOME</p>
+
+
 <h3>Alberto Fernandez Baena</h3>
 <p>La version del JDK que tengo instalado es la jdk-17.0.1 en la ruta C:\Program Files\Java\jdk-17.0.1</p>
 
@@ -59,7 +67,7 @@ li>SonarLint</li>
 <li> TestNG for Eclipse</li>
 <li> Prettier</li>
 
-[![Captura-de-pantalla-1.png](https://i.postimg.cc/YCBKxj6S/Captura-de-pantalla-1.png)](https://postimg.cc/hfs5DD3F)
+[![Captura-de-pantalla-3.png](https://i.postimg.cc/KYPmSB5w/Captura-de-pantalla-3.png)](https://postimg.cc/4KxDpKqQ)
 
 
 <h2>STORY 8: Creación y ejecución de un Proyecto JAVA</h2>
