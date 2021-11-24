@@ -16,10 +16,7 @@
 <h3>Leonardo Sacor Nefedova</h3>
 <p>La version del JDK que tengo instalado es la jdk-17.0.1 en la ruta C:\Program Files\Java\jdk-17.0.1</p>
 
-
-
 <p>Las variables de entorno JAVA las tengo configuradas dentro de Path, y le tengo puesto de nombre JAVA_HOME</p>
-
 
 <h3>Alberto Fernandez Baena</h3>
 <p>La version del JDK que tengo instalado es la jdk-17.0.1 en la ruta C:\Program Files\Java\jdk-17.0.1</p>
@@ -30,6 +27,17 @@
 
 [![java-home.png](https://i.postimg.cc/13YbBQPq/java-home.png)](https://postimg.cc/bZk6Y4Zy)
 [![java-home2.png](https://i.postimg.cc/9Fgx5YS3/java-home2.png)](https://postimg.cc/tYPdFWpD)
+
+<h3>Eva Téllez Bernal</h3>
+<p>Mi versión de Java JDK es la jdk- en la ruta </p>
+
+FOTO
+
+<p>En las variables del sistema he creado java_home en C:\Program Files\Java\jdk-17.0.1 con una nueva variable creada en path llamada %JAVA_HOME%\bin</p>
+
+[![variables-de-entorno.png](https://i.postimg.cc/43tL7Wm7/variables-de-entorno.png)](https://postimg.cc/06kdhdGP)
+
+[![variables.png](https://i.postimg.cc/Nf6RHZ4w/variables.png)](https://postimg.cc/sv2BF6qn)
 
 <h2>STORY 6: Instalación de Entornos de Desarrollo</h2>
 
