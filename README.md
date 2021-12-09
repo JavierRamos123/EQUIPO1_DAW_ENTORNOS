@@ -2,10 +2,9 @@
 <h1>SPRINT 2 - ENTORNOS</h1>
 <h2>STORY 1: Vídeo Presentación: Control de versiones</h2>
 
-https://drive.google.com/file/d/1etS6s0fv5SgLGTpaAh8vBTEQ2iQZXH7l/view
-
 <h2>STORY 2:Repositorios Git</h2>
 
+https://drive.google.com/file/d/1etS6s0fv5SgLGTpaAh8vBTEQ2iQZXH7l/view
 
 <h2>STORY 3:Herramientas CASE</h2>
 
