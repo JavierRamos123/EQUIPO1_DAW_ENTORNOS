@@ -1,8 +1,7 @@
 # EQUIPO1_DAW_ENTORNOS-SPTINT-3-PROYECTO-HTML
 
 <h2> Story 1 </h2>
-https://drive.google.com/file/d/1rKZ1cKR7P4NoZDvCP__mvz8h_/view?usp=
-
+https://drive.google.com/file/d/1W8OM8sZGYjpQj9lPSrzQYDNJ9j252lI2/view?usp=sharing
 <h2> Story 2 <h2>
 https://youtu.be/f7L6xBjIs_8
 <h2> Story 3 <h2>
